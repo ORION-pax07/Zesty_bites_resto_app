@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269027141268",
+    "project_id": "zestybites-e8b81",
+    "storage_bucket": "zestybites-e8b81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269027141268:android:080f2b6c9f0ce48ff4b681",
+        "android_client_info": {
+          "package_name": "com.example.new_food_main"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUKobmglNVrsYJ2vE-gPdRXrdnW200BhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
